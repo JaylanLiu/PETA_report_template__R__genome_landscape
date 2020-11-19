@@ -1,12 +1,12 @@
 # PETA_report_template__R__genome_landscape
 PETA report template using IR kernel to illustrate genome landscape
 
-## uthor
+## Author
 JilongLiu
 
 liujilong@genomics.cn
 
-## upported data
+## Supported data
 All genomics records with mutation as TCGA`s MAF format.
 
 ## Analysis
